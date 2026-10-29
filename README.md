@@ -15,4 +15,4 @@ Automatizar o controle de entrada e saída de doações recebidas pela Associaç
 ## 🚀 Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/Julinhasz/mvp-esperanca-viva.git](https://github.com/Julinhasz/mvp-esperanca-viva.git)
+   git clone https://github.com/Julinhasz/mvp-esperanca-viva.git
