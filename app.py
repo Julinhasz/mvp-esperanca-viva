@@ -36,4 +36,4 @@ if __name__ == "__main__":
     print("Estoque atualizado:", sistema.relatorio_geral())
 
 
-# Validação e controle de itens atualizados para a comunidade
+# Validação e controle de itens atualizados para a comunidade 
