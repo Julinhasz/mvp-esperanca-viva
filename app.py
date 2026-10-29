@@ -34,3 +34,6 @@ if __name__ == "__main__":
     sistema.adicionar_doacao("Arroz (kg)", 50)
     sistema.adicionar_doacao("Feijão (kg)", 30)
     print("Estoque atualizado:", sistema.relatorio_geral())
+
+
+# Validação e controle de itens atualizados para a comunidade 
